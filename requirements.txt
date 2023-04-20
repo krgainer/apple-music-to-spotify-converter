@@ -1,2 +1,3 @@
 python-dotenv
 graph_tools
+beautifulsoup4
